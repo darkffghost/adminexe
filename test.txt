@@ -1,14 +1,16 @@
 [
   {
-    "USER": "darkghost",
-    "PASS": "password123",
-    "EX": "2026-12-31",
+    "USER": "dark",
+    "PASS": "dark",
+    "EX": "2026-1-14",
+    "MAX_DEVICES": 3,
     "DEVICES": []
   },
   {
     "USER": "testuser",
     "PASS": "test123",
     "EX": "2025-06-30",
+    "MAX_DEVICES": 1,
     "DEVICES": []
   }
 ]
