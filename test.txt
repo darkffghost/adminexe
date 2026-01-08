@@ -3,7 +3,7 @@
     "USER": "dark",
     "PASS": "dark",
     "EX": "2026-1-14",
-    "MAX_DEVICES": 3,
+    "MAX_DEVICES": 0,
     "DEVICES": []
   },
   {
