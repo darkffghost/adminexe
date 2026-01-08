@@ -6,7 +6,7 @@
   },
   {
     "USER": "dark",
-    "PASS": "fuck",
+    "PASS": "ff",
     "EX": "2026-01-15"
   }
 ]
