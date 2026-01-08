@@ -1,0 +1,14 @@
+[
+  {
+    "USER": "darkghost",
+    "PASS": "password123",
+    "EX": "2026-12-31",
+    "DEVICES": []
+  },
+  {
+    "USER": "testuser",
+    "PASS": "test123",
+    "EX": "2025-06-30",
+    "DEVICES": []
+  }
+]
