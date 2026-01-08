@@ -3,8 +3,11 @@
     "USER": "dark",
     "PASS": "dark",
     "EX": "2026-01-14",
-    "MAX_DEVICES": 1,
+    "MAX_DEVICES": 2,
     "STATUS": true,
-    "DEVICES": [e1555f9e756a46ff]
+    "DEVICES": [
+      "e1555f9e756a46ff",
+      "baa60b0dec543def"
+    ]
   }
 ]
