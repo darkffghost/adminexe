@@ -17,11 +17,11 @@
 },
 {
 "USER": "dark",
-"PASS": "dd",
-"EX": "2026-01-14",
+"PASS": "2days",
+"EX": "2026-01-21",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": [ec97a424f91e7635]
+"DEVICES": [bd7e9d4757c21b73]
 },
 {
 "USER": "dark",
