@@ -33,7 +33,7 @@
 },
 {
 "USER": "dark",
-"PASS": "dark",
+"PASS": "gg",
 "EX": "2026-01-25",
 "MAX_DEVICES": 1,
 "STATUS": true,
