@@ -33,14 +33,6 @@
 },
 {
 "USER": "dark",
-"PASS": "GG",
-"EX": "2026-01-25",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [e2db9dac70948808]
-},
-{
-"USER": "dark",
 "PASS": "fug",
 "EX": "2026-01-22",
 "MAX_DEVICES": 1,
