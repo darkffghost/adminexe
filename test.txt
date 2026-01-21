@@ -17,27 +17,11 @@
 },
 {
 "USER": "dark",
-"PASS": "2days",
-"EX": "2026-01-21",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [bd7e9d4757c21b73]
-},
-{
-"USER": "dark",
 "PASS": "test",
 "EX": "2026-02-14",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [04a381657d0820b9]
-},
-{
-"USER": "dark",
-"PASS": "fug",
-"EX": "2026-01-22",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [e2db9dac70948808]
 },
 {
 "USER": "dark",
