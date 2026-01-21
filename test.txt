@@ -38,7 +38,7 @@
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [e2db9dac70948808]
-}
+},
 {
 "USER": "dark",
 "PASS": "2ff",
