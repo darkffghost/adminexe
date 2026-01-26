@@ -42,7 +42,7 @@
 {
 "USER": "vo",
 "PASS": "vo",
-"EX": "2026-01-23",
+"EX": "2029-01-23",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [690ea2e8334c5c75]
