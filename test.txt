@@ -38,5 +38,13 @@
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [c474a8d0fabc1a3f]
+},
+{
+"USER": "vo",
+"PASS": "vo",
+"EX": "2026-01-23",
+"MAX_DEVICES": 1,
+"STATUS": true,
+"DEVICES": [c474a8d0fabc1a3f]
 }
 ]
