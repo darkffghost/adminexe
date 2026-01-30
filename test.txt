@@ -14,7 +14,8 @@
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [e1555f9e756a46ff]
-},
+},gg
+hz
 {
 "USER": "dark",
 "PASS": "test",
