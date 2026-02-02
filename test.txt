@@ -24,22 +24,6 @@
 "DEVICES": [04a381657d0820b9]
 },
 {
-"USER": "dark",
-"PASS": "2ff",
-"EX": "2026-01-23",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [e87d4e2c11730332]
-},
-{
-"USER": "dark",
-"PASS": "1ff",
-"EX": "2026-01-23",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [c474a8d0fabc1a3f]
-},
-{
 "USER": "vo",
 "PASS": "vo",
 "EX": "2029-01-23",
