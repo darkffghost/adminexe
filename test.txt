@@ -30,5 +30,13 @@
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [690ea2e8334c5c75]
-}
+},
+{
+"USER": "dark",
+"PASS": "paid",
+"EX": "2026-03-14",
+"MAX_DEVICES": 1,
+"STATUS": true,
+"DEVICES": [bd7e9d4757c21b73]
+},
 ]
