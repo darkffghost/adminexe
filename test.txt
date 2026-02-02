@@ -6,7 +6,7 @@
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [baa60b0dec543def]
-},
+},vgvg
 {
 "USER": "dark",
 "PASS": "ff",
