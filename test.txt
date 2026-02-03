@@ -12,7 +12,7 @@
 "PASS": "test",
 "EX": "2026-02-04",
 "MAX_DEVICES": 1,
-"STATUS": true,
+"STATUS": false,
 "DEVICES": [04a381657d0820b9]
 },
 {
