@@ -1,14 +1,6 @@
 [
 {
 "USER": "dark",
-"PASS": "dark",
-"EX": "2026-03-14",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [baa60b0dec543def]
-},
-{
-"USER": "dark",
 "PASS": "ff",
 "EX": "2096-03-14",
 "MAX_DEVICES": 1,
@@ -18,7 +10,7 @@
 {
 "USER": "dark",
 "PASS": "test",
-"EX": "2026-02-14",
+"EX": "2026-02-04",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [04a381657d0820b9]
