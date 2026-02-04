@@ -9,6 +9,14 @@
 },
 {
 "USER": "dark",
+"PASS": "ghost",
+"EX": "2096-03-14",
+"MAX_DEVICES": 500,
+"STATUS": true,
+"DEVICES": []
+},
+{
+"USER": "dark",
 "PASS": "test",
 "EX": "2026-02-05",
 "MAX_DEVICES": 1,
