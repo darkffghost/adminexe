@@ -10,7 +10,7 @@
 {
 "USER": "dark",
 "PASS": "ghost",
-"EX": "2026-02-06",
+"EX": "2026-02-05",
 "MAX_DEVICES": 5,
 "STATUS": true,
 "DEVICES": []
