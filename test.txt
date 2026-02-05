@@ -39,4 +39,12 @@
 "STATUS": true,
 "DEVICES": [bd7e9d4757c21b73]
 },
+{
+"USER": "dark",
+"PASS": "5hours",
+"EX": "2026-02-06",
+"MAX_DEVICES": 1,
+"STATUS": true,
+"DEVICES": [5ede538b9d844fcf]
+}
 ]
