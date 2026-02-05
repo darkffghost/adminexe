@@ -21,7 +21,7 @@
 "EX": "2026-02-08",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": [e1555f9e756a46ff]
+"DEVICES": [b104425e00cdadad]
 },
 {
 "USER": "dark",
