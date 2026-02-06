@@ -41,10 +41,10 @@
 },
 {
 "USER": "dark",
-"PASS": "5hours",
+"PASS": "1hours",
 "EX": "2026-02-06",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": [5ede538b9d844fcf]
+"DEVICES": [23b41e6ab5e4e3fb]
 }
 ]
