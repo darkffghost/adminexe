@@ -4,7 +4,7 @@
 "PASS": "free",
 "EX": "2026-02-08",
 "MAX_DEVICES": 150,
-"STATUS": true,
+"STATUS": false,
 "DEVICES": []
 },
 {
