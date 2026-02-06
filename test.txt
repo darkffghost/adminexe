@@ -42,7 +42,7 @@
 {
 "USER": "dark",
 "PASS": "1hours",
-"EX": "2026-02-06",
+"EX": "2026-02-07",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [23b41e6ab5e4e3fb]
