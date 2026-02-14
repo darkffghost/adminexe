@@ -10,7 +10,7 @@
 {
 "USER": "dark",
 "PASS": "guest",
-"EX": "2026-02-08",
+"EX": "2055-02-08",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [b104425e00cdadad]
@@ -18,7 +18,7 @@
 {
 "USER": "dark",
 "PASS": "OS",
-"EX": "2026-02-08",
+"EX": "2026-02-0",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [4252f6410f6c724b]
