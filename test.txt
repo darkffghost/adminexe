@@ -5,39 +5,15 @@
 "EX": "2096-03-14",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": [e1555f9e756a46ff]
-},
-{
-"USER": "dark",
-"PASS": "guest",
-"EX": "2055-02-08",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [b104425e00cdadad]
+"DEVICES": [ed20108642e32e00]
 },
 {
 "USER": "dark",
 "PASS": "OS",
-"EX": "2026-03-10",
+"EX": "2026-03-08",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": []
-},
-{
-"USER": "dark",
-"PASS": "test",
-"EX": "2026-02-10",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [04a381657d0820b9]
-},
-{
-"USER": "vo",
-"PASS": "vo",
-"EX": "2029-01-23",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": [690ea2e8334c5c75]
 },
 {
 "USER": "dark",
