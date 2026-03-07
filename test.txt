@@ -9,14 +9,6 @@
 },
 {
 "USER": "dark",
-"PASS": "OS",
-"EX": "2026-03-08",
-"MAX_DEVICES": 1,
-"STATUS": true,
-"DEVICES": []
-},
-{
-"USER": "dark",
 "PASS": "paid",
 "EX": "2026-03-14",
 "MAX_DEVICES": 1,
