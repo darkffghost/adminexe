@@ -17,6 +17,14 @@
 },
 {
 "USER": "dark",
+"PASS": "free",
+"EX": "2026-03-10",
+"MAX_DEVICES": 1,
+"STATUS": true,
+"DEVICES": [cfd86beaa0f0013a]
+},
+{
+"USER": "dark",
 "PASS": "paid",
 "EX": "2026-03-14",
 "MAX_DEVICES": 1,
