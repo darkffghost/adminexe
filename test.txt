@@ -18,7 +18,7 @@
 {
 "USER": "dark",
 "PASS": "free",
-"EX": "2026-03-10",
+"EX": "2026-03-15",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": []
