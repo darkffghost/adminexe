@@ -24,8 +24,8 @@
 "DEVICES": []
 },
 {
-"USER": "dark",
-"PASS": "paid",
+"USER": "darkshsjdh",
+"PASS": "paidgsjsjhd",
 "EX": "2026-03-14",
 "MAX_DEVICES": 1,
 "STATUS": true,
