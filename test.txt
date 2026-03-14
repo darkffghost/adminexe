@@ -29,6 +29,6 @@
 "EX": "2026-03-22",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": [bd7e9d4757c21b73]
+"DEVICES": [ff70291f3204be97]
 },
 ]
