@@ -26,7 +26,7 @@
 {
 "USER": "dark",
 "PASS": "paid1",
-"EX": "2026-03-22",
+"EX": "2026-03-30",
 "MAX_DEVICES": 1,
 "STATUS": true,
 "DEVICES": [bd7e9d4757c21b73]
