@@ -16,12 +16,12 @@
 "DEVICES": [e1555f9e756a46ff]
 },
 {
-"USER": "dark",
-"PASS": "free",
+"USER": "you",
+"PASS": "noob",
 "EX": "2026-03-16",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": []
+"DEVICES": [b2fd4322c9e63859]
 },
 {
 "USER": "dark",
