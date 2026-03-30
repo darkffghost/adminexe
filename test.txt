@@ -9,6 +9,14 @@
 },
 {
 "USER": "dark",
+"PASS": "pro",
+"EX": "2096-03-14",
+"MAX_DEVICES": 1,
+"STATUS": true,
+"DEVICES": [cac30f51937c2e8f]
+},
+{
+"USER": "dark",
 "PASS": "OS",
 "EX": "2096-03-14",
 "MAX_DEVICES": 1,
