@@ -13,7 +13,7 @@
 "EX": "2096-03-14",
 "MAX_DEVICES": 1,
 "STATUS": true,
-"DEVICES": [cac30f51937c2e8f]
+"DEVICES": [fa5891171f9915a6]
 },
 {
 "USER": "dark",
