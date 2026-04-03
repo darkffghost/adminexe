@@ -4,7 +4,7 @@
 "PASS": "ff",
 "EX": "2096-03-14",
 "MAX_DEVICES": 1,
-"STATUS": false,
+"STATUS": true,
 "DEVICES": [af133ae6c2d6ff6d]
 },
 {
